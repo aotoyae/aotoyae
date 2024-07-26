@@ -18,10 +18,6 @@
 
 <h3 align="center">📨 Contact 📨</h3>
 <div align="center">
-  <a href="mailto:aotoyae@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/aotoyae@gmail.com-42A1DC?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-  </a>&nbsp
-  <a href="https://aotoyae.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=FFFFFF" />
-  </a>&nbsp
+  <a href="mailto:aotoyae@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-42A1DC?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>&nbsp
+  <a href="https://aotoyae.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>&nbsp
 </div>
