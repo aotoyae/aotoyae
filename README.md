@@ -8,8 +8,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/react%20Query-FF4154?style=for-the-badge&logo=tanstack%20query&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=FFFFFF" />&nbsp
