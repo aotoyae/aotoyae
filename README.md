@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/shadcn%20ui-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp
-    <img src="https://img.shields.io/badge/D3.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp
 </div>
 
 <h3 align="center">📨 Contact 📨</h3>
