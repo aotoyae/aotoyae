@@ -7,14 +7,15 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=FFFFFF" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/shadcn%20ui-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/shadcn%20ui-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />&nbsp
 </div>
 
 <h3 align="center">📨 Contact 📨</h3>
